@@ -1,0 +1,6 @@
+framework module SSSocket {
+  umbrella header "SSSocket-umbrella.h"
+
+  export *
+  module * { export * }
+}

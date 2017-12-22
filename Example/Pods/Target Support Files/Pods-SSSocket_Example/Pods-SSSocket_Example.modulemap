@@ -1,0 +1,6 @@
+framework module Pods_SSSocket_Example {
+  umbrella header "Pods-SSSocket_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
